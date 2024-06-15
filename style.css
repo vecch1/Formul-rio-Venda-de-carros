@@ -121,11 +121,12 @@ textarea {
     cursor:pointer;
     text-transform: uppercase;
     transition: 0.5s;
+    
 }
 
 .btn-submit:hover {
-    background-color: #fff;
-    border: #673ab7;
-    color: #673ab7;
+    background-color: rgb(163, 162, 162);
+    border: #612abe;
+    color: #5e2bb7;
 
 }
